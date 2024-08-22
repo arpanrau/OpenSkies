@@ -1,6 +1,6 @@
 # OpenSkies
 Open-Source Paragliding Flight Computer
 
-##About
+## About
 
 OpenSkies is a cross-platform, community developed paragliding flight computer app built in react native. 
